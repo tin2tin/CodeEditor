@@ -39,6 +39,6 @@ Blender Addon enhancing Text Editor
 
 ![enter image description here](https://i.stack.imgur.com/mI0na.gif)
 
-All this was good enough for me not to use external editor. Multiple variables highlighting and multi-editing (like Sublime has) was planned but abandoned. Maybe if enough people will be interested I could further improve this. But I don't see Blender addon python api strong enough to do this properly, this should be done in Blenders code for performance (like that scintilla patch)."
+Text from:
 
 https://blender.stackexchange.com/questions/31126/workflow-for-developing-add-on-script/31195#31195
